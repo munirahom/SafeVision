@@ -39,13 +39,13 @@ Built as a graduation project at Imam Abdulrahman Bin Faisal University.
 
 ## Tech Stack
 
-| Layer            | Technology |
-
+| Layer | Technology |
+|---|---|
 | Object detection | YOLO11s (fine-tuned), OpenCV |
-| Backend          | Python, FastAPI, WebSockets, SQLAlchemy, SQLite |
-| Frontend         | React (Vite), Recharts, JWT auth, RBAC |
-| External data    | Open-Meteo weather & geocoding APIs |
-| Security         | bcrypt password hashing, JWT tokens, environment-based secrets |
+| Backend | Python, FastAPI, WebSockets, SQLAlchemy, SQLite |
+| Frontend | React (Vite), Recharts, JWT auth, RBAC |
+| External data | Open-Meteo weather & geocoding APIs |
+| Security | bcrypt password hashing, JWT tokens, environment-based secrets |
 
 ## Getting Started
 
