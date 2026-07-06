@@ -8,7 +8,7 @@ Built as a graduation project at Imam Abdulrahman Bin Faisal University.
 
 ---
 
-## ✨ Key Features
+## Key Features
 
 - **Real-time PPE detection** — fine-tuned YOLO11s object detection model identifies workers and safety gear in live video
 - **Absence-based violation logic** — cross-checks overlapping bounding boxes to flag *missing* equipment per worker, not just detect what's present
@@ -101,7 +101,7 @@ The dashboard runs at `http://localhost:5173`.
 SafeVision polls Open-Meteo (keyless, free API) for 3-day forecasts and raises severity-ranked alerts when conditions threaten worksite safety:
 
 - **High:** extreme heat (≥45°C), severe wind (≥70 km/h), thunderstorms, violent rain
-- 🟡**Medium:** high heat (≥40°C), freezing temperatures, high wind, high precipitation probability
+- **Medium:** high heat (≥40°C), freezing temperatures, high wind, high precipitation probability
 
 ## Security Notes
 
@@ -115,4 +115,3 @@ This project was developed for academic purposes. Feel free to explore the code;
 
 ---
 
-*Developed by Munirah Almukhailed — [LinkedIn](https://www.linkedin.com/) · munirah.almokhlied@gmail.com*
